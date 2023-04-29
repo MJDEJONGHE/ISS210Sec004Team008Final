@@ -1,5 +1,6 @@
 # ISS210SS23FinalTemplate
-This is a template for the ISS210's final webstie on social justice (not required for students to use). You should use this file to drop citations for all the images, articles, etc. that you used that were not linked directly through your site. 
+Andrew Berry Citations https://www.annualreviews.org/doi/abs/10.1146/annurev.soc.34.040507.134719?casa_token=B4M27gdOjmwAAAAA%3AXvhD2vYCjHnw6_K2jP6yDb1woupaegrtglmAQ4Dy_9vqEeskUyPoSQ1yQgUM-wxB03LLakoiav_HKQ, https://doi.org/10.1146/annurev.soc.34.040507.134719.,www.unesco.org/en/articles/twice-many-girls-boys-will-never-start-school-says-new-unesco-gender-eatla
+Matt DeJonghe Citations https://whitestationscroll.net/985/opinion/gender-inequality-in-academia/,https://hrdailyadvisor.blr.com/2021/01/15/covid-19-will-continue-to-make-gender-inequality-at-work-prominent/,https://www.zippia.com/military-pilot-jobs/demographics/
 
 
 
